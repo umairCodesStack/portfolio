@@ -77,13 +77,13 @@ export default function Hero() {
             </div>
             <div className="floating-card card-4">
               <i className="fas fa-palette" aria-hidden="true"></i>
-              <span>Modern Designs</span>
+              <span>Modern Design</span>
             </div>
 
             <div className="hero-image-container">
               <div className="hero-image">
                 <img
-                  src="./profile.jpg"
+                  src="./profile.png"
                   alt="Profile photo"
                   className="hero-photo"
                 />
