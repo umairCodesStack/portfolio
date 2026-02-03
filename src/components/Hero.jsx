@@ -77,7 +77,7 @@ export default function Hero() {
             </div>
             <div className="floating-card card-4">
               <i className="fas fa-palette" aria-hidden="true"></i>
-              <span>Modern Design</span>
+              <span>Modern Designs</span>
             </div>
 
             <div className="hero-image-container">
