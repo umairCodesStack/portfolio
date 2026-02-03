@@ -83,8 +83,8 @@ export default function Hero() {
             <div className="hero-image-container">
               <div className="hero-image">
                 <img
-                  src="./profile.png"
-                  alt="Profile photo"
+                  src="/profile.png"
+                  alt="Profile picture"
                   className="hero-photo"
                 />
               </div>
