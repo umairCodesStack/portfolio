@@ -77,12 +77,12 @@ export default function Projects() {
                 >
                   Live Demo
                 </a>
-                <a
+                {/* <a
                   href="https://github.com/umairCodesStack/serene-haven"
                   className="btn btn-ghost"
                 >
                   Source
-                </a>
+                </a> */}
               </div>
             </div>
           </article>
@@ -104,10 +104,10 @@ export default function Projects() {
               </p>
               <div className="card-actions">
                 <a
-                  href="https://github.com/umairCodesStack/Shop-Easy-Website"
+                  href="https://shop-easy-frontend-flax.vercel.app/"
                   className="btn btn-ghost"
                 >
-                  Source
+                  Live Demo
                 </a>
               </div>
             </div>
@@ -146,12 +146,12 @@ export default function Projects() {
                 >
                   Live Demo
                 </a>
-                <a
+                {/* <a
                   href="https://github.com/umairCodesStack/fast-react-pizza-co"
                   className="btn btn-ghost"
                 >
                   Source
-                </a>
+                </a> */}
               </div>
             </div>
           </article>
