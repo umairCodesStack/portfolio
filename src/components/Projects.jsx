@@ -175,7 +175,7 @@ export default function Projects() {
               />{" "}
             </div>
             <div className="card-content">
-              <h3>Skyrocket SEO Solutions — Business Portfolio Website</h3>
+              <h3>Skyrocket SEO Solutions Business Portfolio Website</h3>
               <p>
                 Professional business portfolio website showcasing SEO services,
                 digital marketing solutions, and business offerings. Designed

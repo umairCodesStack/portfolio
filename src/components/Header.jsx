@@ -57,11 +57,17 @@ export default function Header() {
           <a href="#skills" className="nav-link">
             Skills
           </a>
+          <a href="#services" className="nav-link">
+            Services
+          </a>
           <a href="#projects" className="nav-link">
             Projects
           </a>
           <a href="#experience" className="nav-link">
             Experience
+          </a>
+          <a href="#certificates" className="nav-link">
+            Certificates
           </a>
           <a href="#contact" className="nav-link">
             Contact
