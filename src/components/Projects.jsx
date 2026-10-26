@@ -49,7 +49,7 @@ export default function Projects() {
                 style={{ position: "relative", overflow: "hidden" }}
               >
                 <iframe
-                  src="https://serene-haven-nine.vercel.app/dashboard"
+                  src="https://prof-mailer-ui-ad2f.vercel.app/"
                   title="Project live preview"
                   loading="lazy"
                   style={{
@@ -64,25 +64,24 @@ export default function Projects() {
               </div>
             </div>{" "}
             <div className="card-content">
-              <h3>Serene Haven</h3>
+              <h3>MailFlow — Automated Email Campaign Manager</h3>
               <p>
-                Hotel management system built with React and Supabase. Manages
-                bookings, cabins, and guests with real-time sync, server-state
-                caching (React Query), and responsive UI (Styled Components).
+                Automated email campaign management system built with FastAPI
+                and React. Imports recipient details from Excel, personalizes
+                email templates using spreadsheet data, and schedules emails for
+                automated delivery. Includes campaign management and email
+                status tracking.
               </p>
               <div className="card-actions">
-                <a
-                  href="https://serene-haven-nine.vercel.app/dashboard"
-                  className="btn btn-ghost"
-                >
+                <a href="YOUR_LIVE_DEMO_URL" className="btn btn-ghost">
                   Live Demo
                 </a>
-                {/* <a
-                  href="https://github.com/umairCodesStack/serene-haven"
+                <a
+                  href="https://github.com/umairCodesStack/prof-mailer"
                   className="btn btn-ghost"
                 >
                   Source
-                </a> */}
+                </a>
               </div>
             </div>
           </article>
@@ -152,6 +151,28 @@ export default function Projects() {
                 >
                   Source
                 </a> */}
+              </div>
+            </div>
+          </article>
+          <article className="card tilt">
+            <div className="card-content">
+              <h3>Skyrocket SEO Solutions — Business Portfolio Website</h3>
+              <p>
+                Professional business portfolio website showcasing SEO services,
+                digital marketing solutions, and business offerings. Designed
+                with a responsive UI to present services, build brand
+                credibility, and help potential clients explore the company's
+                solutions.
+              </p>
+              <div className="card-actions">
+                <a
+                  href="https://www.skyrocketseosolutions.tech/"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="btn btn-ghost"
+                >
+                  Live Demo
+                </a>
               </div>
             </div>
           </article>
