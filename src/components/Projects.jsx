@@ -155,6 +155,25 @@ export default function Projects() {
             </div>
           </article>
           <article className="card tilt">
+            <div className="card-media">
+              <iframe
+                src="https://www.skyrocketseosolutions.tech/"
+                title="Project live preview"
+                loading="lazy"
+                style={{
+                  width: "100%",
+                  height: "250px",
+                  border: "none",
+                  pointerEvents: "auto",
+                  display: "block",
+                  overflow: "auto",
+                  scrollbarWidth: "none",
+                  msOverflowStyle: "none",
+                  WebkitOverflowScrolling: "touch",
+                }}
+                className="hide-scrollbar"
+              />{" "}
+            </div>
             <div className="card-content">
               <h3>Skyrocket SEO Solutions — Business Portfolio Website</h3>
               <p>
