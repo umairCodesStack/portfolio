@@ -73,7 +73,7 @@ export default function Projects() {
                 status tracking.
               </p>
               <div className="card-actions">
-                <a href="YOUR_LIVE_DEMO_URL" className="btn btn-ghost">
+                <a href="https://prof-mailer-ui-ad2f.vercel.app/" className="btn btn-ghost">
                   Live Demo
                 </a>
                 <a
