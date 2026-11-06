@@ -12,6 +12,7 @@ import Certificates from "./components/Certificates.jsx";
 import Contact from "./components/Contact.jsx";
 import Footer from "./components/Footer.jsx";
 import RainLayer from "./components/RainLayer.jsx";
+import WhatsAppButton from "./components/WhatsAppButton.jsx";
 
 export default function App() {
   useEffect(() => {
@@ -54,6 +55,7 @@ export default function App() {
         <Contact />
       </main>
       <Footer />
+      <WhatsAppButton />
     </>
   );
 }
