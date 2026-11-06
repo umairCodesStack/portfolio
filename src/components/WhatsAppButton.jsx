@@ -8,7 +8,7 @@ export default function WhatsAppButton() {
       <style>{`
         .whatsapp-float {
           position: fixed;
-          left: 24px;
+          right: 24px;
           bottom: 24px;
           z-index: 9999;
           display: inline-flex;
@@ -45,7 +45,7 @@ export default function WhatsAppButton() {
           100% { box-shadow: 0 0 0 0 rgba(37, 211, 102, 0), 0 8px 24px rgba(0, 0, 0, 0.28); }
         }
         @media (max-width: 600px) {
-          .whatsapp-float { left: 16px; bottom: 16px; width: 54px; height: 54px; }
+          .whatsapp-float { right: 16px; bottom: 16px; width: 54px; height: 54px; }
         }
         @media (prefers-reduced-motion: reduce) {
           .whatsapp-float { animation: none; transition: none; }
